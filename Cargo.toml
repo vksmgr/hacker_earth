@@ -1,0 +1,6 @@
+[package]
+name = "hacker_earth"
+version = "0.1.0"
+authors = ["vksmgr <Vikas@1994>"]
+
+[dependencies]
